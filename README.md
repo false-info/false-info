@@ -1,16 +1,16 @@
-# Hello
-i'm a low-level malware developer 
+# Low-Level Developer
 
+## Malware Expertise
 
-## types of malware i've made
+| Category | Type |
+| :--- | :--- |
+| **Kernel / Firmware** | Rootkits, Bootkits |
+| **Userland / Crypto** | Ransomware, Keyloggers |
 
-|ransomware| |rootkits| |bootkits| |keyloggers|
-------------
+## Language Proficiency
 
-# langs
-|very good| |good| |okay| |bad|
-|------------------|
-|linux x86-64 assembly| |windows x86-64 assembly| |C++|
-|-----------------|
-|C| |bare metal x86-16/32/64 assembly| |C#|
-|-----------------|
+| Tier | Languages |
+| :--- | :--- |
+| **Very Good** | C, Linux x86-64 Assembly |
+| **Good** | Windows x86-64 Assembly, Bare Metal x86 (16/32/64-bit) |
+| **Okay** | C++, C# |
